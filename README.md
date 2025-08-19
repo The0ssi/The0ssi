@@ -1,24 +1,26 @@
-# 👋 Olá! Eu sou Beatriz.
+# 👋 Olá! Eu sou a Beatriz.
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End, Back-End, Mobile, Banco de Dados e UX/UI.
+Sou estudante de **Desenvolvimento de Sistemas** no SENAI, apaixonada por tecnologia e inovação. Atualmente, estou aprendendo sobre **GitHub**, **programação**, e **criação de projetos web e mobile**, com foco em construir soluções criativas e funcionais.
+
+Tenho interesse especial em **Front-End, Back-End, Mobile, Banco de Dados e UX/UI**, buscando sempre unir técnica e usabilidade em meus projetos.
 
 ---
 
 ## 🎯 Tecnologias que estou aprendendo
 
-### Front-End
+### Front-End  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Back-End
+### Back-End  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Mobile
+### Mobile  
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -27,20 +29,19 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 🚀 Meus Projetos
 
-| Projeto               | Preview Online                                                       | Tecnologias Usadas       |
-|-----------------------|----------------------------------------------------------------------|--------------------------|
-| Arquitetura           | 🔗 Ver online (https://the0ssi.github.io/PortfolioDeArquitetura/     | HTML / CSS / JS          
-
+| Projeto     | Preview Online                                                                 | Tecnologias Usadas   |
+|-------------|----------------------------------------------------------------------------------|----------------------|
+| Portfólio de Arquitetura | [🔗 Ver online](https://the0ssi.github.io/PortfolioDeArquitetura/) | HTML / CSS / JavaScript |
 
 ---
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente sou estudante no SENAI, onde venho desenvolvendo habilidades técnicas na área de tecnologia.
-- 💻 Estou aprendendo Java, Git e desenvolvimento de aplicativos mobile
-- 🎯 Meu objetivo é me tornar um desenvolvedor Java e atuar na área de cibersegurança
-- 📚 Tenho interesse em aprender sobre inteligência artificial, redes, segurança da informação e desenvolvimento web
-- 👑 "Power’s not given to you. You have to take it." – Beyoncé
+- 🎓 Estudo **Desenvolvimento de Sistemas** no SENAI.
+- 💻 Estou em constante aprendizado com **Java**, **Git**, e **desenvolvimento mobile**.
+- 🎯 Tenho como objetivo me tornar um **desenvolvedora Java** e atuar na área de **cibersegurança**.
+- 📚 Amo aprender sobre **inteligência artificial, redes, segurança da informação e desenvolvimento web**.
+- 👑 *"Power’s not given to you. You have to take it."* – Beyoncé
 
 ---
 
