@@ -29,7 +29,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                                                       | Tecnologias Usadas       |
 |-----------------------|----------------------------------------------------------------------|--------------------------|
-| Arquitetura             🔗 Ver online (https://the0ssi.github.io/PortfolioDeArquitetura/       HTML / CSS / JS          
+| Arquitetura           | 🔗 Ver online (https://the0ssi.github.io/PortfolioDeArquitetura/     | HTML / CSS / JS          
 
 
 ---
