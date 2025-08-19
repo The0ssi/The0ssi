@@ -2,7 +2,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** no SENAI, apaixonada por tecnologia e inovação. Atualmente, estou aprendendo sobre **GitHub**, **programação**, e **criação de projetos web e mobile**, com foco em construir soluções criativas e funcionais.
 
-Tenho interesse especial em **Front-End, Back-End, Mobile, Banco de Dados e UX/UI**, buscando sempre unir técnica e usabilidade em meus projetos.
+Tenho interesse especial em **Front-End, Back-End, Mobile e UX/UI**, buscando sempre unir técnica e usabilidade em meus projetos.
 
 ---
 
